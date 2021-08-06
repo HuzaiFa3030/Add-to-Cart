@@ -1,0 +1,32 @@
+.my_badge {
+    color: white;
+    background-color: red;
+    border-radius: 100px;
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    right: 320px;
+    top: 5px;
+}
+
+.main_cart {
+    display: flexbox;
+    justify-content: space-between;
+}
+
+.fa {
+    position: absolute;
+    right: 350px;
+}
+
+.card-img-top {
+    width: 150px;
+    height: 150px
+}
+
+.card {
+    display: inline-block !important;
+    margin-left: 35px;
+    margin-bottom: 25PX;
+}
